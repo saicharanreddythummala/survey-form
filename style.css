@@ -1,0 +1,13 @@
+.container-fluid{
+    margin: 20px;
+}
+.form-below{
+    font-weight: lighter;
+}
+
+.checked{
+    color: gold;
+}
+.table .table-striped{
+    border-radius: 5px;
+}
