@@ -25,8 +25,14 @@
 .service{
     display: flex;
     align-items: center;
+    justify-content: center;
     padding: 10px;
 }
 .btn{
     float: right;
+}
+.opinion{
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
